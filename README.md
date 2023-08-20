@@ -6,3 +6,11 @@ https://www.tng-project.org/data/
 
 TNG project data specifications:
 https://www.tng-project.org/data/docs/specifications/
+
+# Required libraries
+* h5py
+* numpy (python-numpy)
+* requests
+
+# License
+Feel free to use this code in your work.
